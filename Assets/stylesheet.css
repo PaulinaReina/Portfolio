@@ -30,10 +30,6 @@ header {
   display: none; 
 }
 
-img {
-    vertical-align: middle;
-}
-
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
@@ -96,12 +92,17 @@ img {
 @-webkit-keyframes fade {
     from {opacity: .4}
     to {opacity: 1}
-  }
+}
   
-  @keyframes fade {
+@keyframes fade {
     from {opacity: .4}
     to {opacity: 1}
+}
+
+.item img {
+    width:100%
   }
+   
 
 /* end of carousel */
 
