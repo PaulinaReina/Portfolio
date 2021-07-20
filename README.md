@@ -50,3 +50,18 @@ You are required to submit BOTH of the following for review:
 
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+///////////////////////////////////////////////
+<section id="about">
+      <img src="http://www.kodhus.com/freecourse-images/about.jpg" height="180" alt="">
+      <div class="content">
+        <h1>About us</h1>
+        <p>We are a team of motivated designers and developers that have great passion for frontend and web development and believe in sharing our knowledge and build a healthy community where people get motivated and get support from each other.</p>
+      </div>
+    </section>
+
+    :root {
+    --primary-color: #a059f1;
+    --secondary-color: #760276;
+    --tertiary-color:  palevioletred;
+}
